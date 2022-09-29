@@ -11,6 +11,7 @@ function App() {
           More info please visite{" "}
           <a href="https://github.com/napatwongchr">my github</a>
         </p>
+        <p>I have 1 dog 🐶🐶</p>
       </header>
     </div>
   );
